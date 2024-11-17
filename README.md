@@ -1,4 +1,4 @@
-## Hyejin's github 👋  
+## Hyejin's github  👋  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=red2132&layout=compact" />
 </div>
